@@ -54,13 +54,9 @@ Satellite-Image-for-road-segmentation/
 - **Visualization**: Model predictions are displayed alongside ground truth for comparison.
 - **Model Saving**: Best model is saved as `best_model.pth`.
 
----
 
-## 🖼️ Sample Results
 
-| Input Mask | Generated Image (Pix2Pix) | Predicted Road (UNet) |
-|------------|---------------------------|------------------------|
-| *(Example mask)* | *(Generated image)* | *(Predicted mask)* |
+
 
 ---
 
